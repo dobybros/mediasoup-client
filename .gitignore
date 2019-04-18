@@ -1,2 +1,16 @@
 /node_modules/
+/coverage/
+node_modules/
+.idea/
+dist/
+### macOS
+# General
+.DS_Store
+*.iml
+.AppleDouble
+.LSOverride
+*.zip
+bash.exe.stackdump
+package-lock.json
+pdfdownloader
 /lib-es5/
