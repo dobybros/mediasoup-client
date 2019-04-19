@@ -16,7 +16,7 @@
     "lint": "eslint -c .eslintrc.js gulpfile.js lib",
     "build": "gulp dist:production"
   },
-  "main": "lib-es5/index.js",
+  "main": "lib/index.js",
   "dependencies": {
     "bowser": "^1.9.3",
     "debug": "^4.1.1",
